@@ -56,6 +56,10 @@
   - [4.3. 栈的应用3：栈混洗](#4-3)
   - [4.4. 栈的应用4：中缀表达式求值](#4-4)
   - [4.5. 栈的应用5：逆波兰表达式](#4-5)
+- [第八章 二叉搜索树](#chapter8)
+
+
+
 
 <a name='chapter1'><h2>第一章 绪论</h2></a>
 
@@ -134,4 +138,43 @@
 ![](./picture/34.jpg)
 
 ![](./picture/35.jpg)
+
+<a name='chapter8'><h2>第八章 二叉搜索树</h2></a>
+
+![](./picture/36.jpg)
+
+![](./picture/37.jpg)
+
+![](./picture/38.jpg)
+
+![](./picture/39.jpg)
+
+![](./picture/40.jpg)
+
+![](./picture/41.jpg)
+
+![](./picture/42.jpg)
+
+![](./picture/43.jpg)
+
+![](./picture/44.jpg)
+
+![](./picture/45.jpg)
+
+![](./picture/46.jpg)
+
+![](./picture/47.jpg)
+
+![](./picture/48.jpg)
+
+![](./picture/49.jpg)
+
+![](./picture/50.jpg)
+
+![](./picture/51.jpg)
+
+![](./picture/52.jpg)
+
+![](./picture/53.jpg)
+
 
