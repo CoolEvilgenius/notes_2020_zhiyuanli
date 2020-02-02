@@ -177,16 +177,6 @@
 
 ![](./picture/53.jpg)
 
-![](./picture/49.jpg)
-
-![](./picture/50.jpg)
-
-![](./picture/51.jpg)
-
-![](./picture/52.jpg)
-
-![](./picture/53.jpg)
-
 ![](./picture/54.jpg)
 
 ![](./picture/55.jpg)
