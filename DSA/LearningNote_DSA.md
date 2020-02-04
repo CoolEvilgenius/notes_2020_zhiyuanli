@@ -215,5 +215,46 @@
 
 ![](./picture/71.jpg)
 
+![](./picture/72.jpg)
+
+![](./picture/73.jpg)
+
+![](./picture/74.jpg)
+
+![](./picture/75.jpg)
+
+![](./picture/76.jpg)
+
+![](./picture/77.jpg)
+
+![](./picture/78.jpg)
+
+![](./picture/79.jpg)
+
+![](./picture/80.jpg)
+
+![](./picture/81.jpg)
+
+![](./picture/82.jpg)
+
+![](./picture/83.jpg)
+
+![](./picture/84.jpg)
+
+![](./picture/85.jpg)
+
+<a name='chapter9'><h2>第九章 词典</h2></a>
+
+![](./picture/86.jpg)
+
+![](./picture/87.jpg)
+
+![](./picture/88.jpg)
+
+![](./picture/89.jpg)
+
+![](./picture/90.jpg)
+
+![](./picture/91.jpg)
 
 
