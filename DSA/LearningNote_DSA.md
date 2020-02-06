@@ -58,7 +58,8 @@
   - [4.5. 栈的应用5：逆波兰表达式](#4-5)
 - [第七章 二叉搜索树](#chapter7)
 - [第八章 高级搜索树](#chapter8)
-
+- [第九章 词典](#chapter9)
+- [第十章 优先级队列](#chapter10)
 
 
 <a name='chapter1'><h2>第一章 绪论</h2></a>
@@ -257,4 +258,42 @@
 
 ![](./picture/91.jpg)
 
+![](./picture/92.jpg)
 
+![](./picture/93.jpg)
+
+![](./picture/94.jpg)
+
+<a name='chapter10'><h2>第十章 优先级队列</h2></a>
+
+![](./picture/95.jpg)
+
+![](./picture/96.jpg)
+
+![](./picture/97.jpg)
+
+![](./picture/98.jpg)
+
+![](./picture/99.jpg)
+
+![](./picture/100.jpg)
+
+![](./picture/101.jpg)
+
+![](./picture/102.jpg)
+
+![](./picture/103.jpg)
+
+![](./picture/104.jpg)
+
+![](./picture/105.jpg)
+
+![](./picture/106.jpg)
+
+![](./picture/107.jpg)
+
+![](./picture/108.jpg)
+
+![](./picture/109.jpg)
+
+![](./picture/110.jpg)
