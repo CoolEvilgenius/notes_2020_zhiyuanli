@@ -56,9 +56,10 @@
   - [4.3. 栈的应用3：栈混洗](#4-3)
   - [4.4. 栈的应用4：中缀表达式求值](#4-4)
   - [4.5. 栈的应用5：逆波兰表达式](#4-5)
-- [第八章 二叉搜索树](#chapter8)
-
-
+- [第七章 二叉搜索树](#chapter7)
+- [第八章 高级搜索树](#chapter8)
+- [第九章 词典](#chapter9)
+- [第十章 优先级队列](#chapter10)
 
 
 <a name='chapter1'><h2>第一章 绪论</h2></a>
@@ -139,7 +140,7 @@
 
 ![](./picture/35.jpg)
 
-<a name='chapter8'><h2>第八章 二叉搜索树</h2></a>
+<a name='chapter7'><h2>第七章 二叉搜索树</h2></a>
 
 ![](./picture/36.jpg)
 
@@ -177,4 +178,122 @@
 
 ![](./picture/53.jpg)
 
+![](./picture/54.jpg)
 
+![](./picture/55.jpg)
+
+<a name='chapter8'><h2>第八章 高级搜索树</h2></a>
+
+![](./picture/56.jpg)
+
+![](./picture/57.jpg)
+
+![](./picture/58.jpg)
+
+![](./picture/59.jpg)
+
+![](./picture/60.jpg)
+
+![](./picture/61.jpg)
+
+![](./picture/62.jpg)
+
+![](./picture/63.jpg)
+
+![](./picture/64.jpg)
+
+![](./picture/65.jpg)
+
+![](./picture/66.jpg)
+
+![](./picture/67.jpg)
+
+![](./picture/68.jpg)
+
+![](./picture/69.jpg)
+
+![](./picture/70.jpg)
+
+![](./picture/71.jpg)
+
+![](./picture/72.jpg)
+
+![](./picture/73.jpg)
+
+![](./picture/74.jpg)
+
+![](./picture/75.jpg)
+
+![](./picture/76.jpg)
+
+![](./picture/77.jpg)
+
+![](./picture/78.jpg)
+
+![](./picture/79.jpg)
+
+![](./picture/80.jpg)
+
+![](./picture/81.jpg)
+
+![](./picture/82.jpg)
+
+![](./picture/83.jpg)
+
+![](./picture/84.jpg)
+
+![](./picture/85.jpg)
+
+<a name='chapter9'><h2>第九章 词典</h2></a>
+
+![](./picture/86.jpg)
+
+![](./picture/87.jpg)
+
+![](./picture/88.jpg)
+
+![](./picture/89.jpg)
+
+![](./picture/90.jpg)
+
+![](./picture/91.jpg)
+
+![](./picture/92.jpg)
+
+![](./picture/93.jpg)
+
+![](./picture/94.jpg)
+
+<a name='chapter10'><h2>第十章 优先级队列</h2></a>
+
+![](./picture/95.jpg)
+
+![](./picture/96.jpg)
+
+![](./picture/97.jpg)
+
+![](./picture/98.jpg)
+
+![](./picture/99.jpg)
+
+![](./picture/100.jpg)
+
+![](./picture/101.jpg)
+
+![](./picture/102.jpg)
+
+![](./picture/103.jpg)
+
+![](./picture/104.jpg)
+
+![](./picture/105.jpg)
+
+![](./picture/106.jpg)
+
+![](./picture/107.jpg)
+
+![](./picture/108.jpg)
+
+![](./picture/109.jpg)
+
+![](./picture/110.jpg)
