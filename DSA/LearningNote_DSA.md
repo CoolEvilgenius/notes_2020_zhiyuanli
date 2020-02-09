@@ -60,6 +60,7 @@
 - [第八章 高级搜索树](#chapter8)
 - [第九章 词典](#chapter9)
 - [第十章 优先级队列](#chapter10)
+- [第十一章 串比对](#chapter11)
 
 
 <a name='chapter1'><h2>第一章 绪论</h2></a>
@@ -297,3 +298,67 @@
 ![](./picture/109.jpg)
 
 ![](./picture/110.jpg)
+
+<a name='chapter11'><h2>第十一章 串比对</h2></a>
+
+![](./picture/111.jpg)
+
+![](./picture/112.jpg)
+
+![](./picture/113.jpg)
+
+![](./picture/114.jpg)
+
+![](./picture/115.jpg)
+
+![](./picture/116.jpg)
+
+![](./picture/117.jpg)
+
+![](./picture/118.jpg)
+
+![](./picture/119.jpg)
+
+![](./picture/120.jpg)
+
+![](./picture/121.jpg)
+
+![](./picture/122.jpg)
+
+![](./picture/123.jpg)
+
+![](./picture/124.jpg)
+
+![](./picture/125.jpg)
+
+![](./picture/126.jpg)
+
+![](./picture/127.jpg)
+
+![](./picture/128.jpg)
+
+![](./picture/129.jpg)
+
+![](./picture/130.jpg)
+
+![](./picture/131.jpg)
+
+![](./picture/132.jpg)
+
+![](./picture/133.jpg)
+
+![](./picture/134.jpg)
+
+![](./picture/135.jpg)
+
+![](./picture/136.jpg)
+
+![](./picture/137.jpg)
+
+![](./picture/138.jpg)
+
+![](./picture/139.jpg)
+
+![](./picture/140.jpg)
+
+
